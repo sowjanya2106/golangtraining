@@ -1,4 +1,4 @@
-package 02_var_zero_value
+package main
 
 import (
 "fmt"

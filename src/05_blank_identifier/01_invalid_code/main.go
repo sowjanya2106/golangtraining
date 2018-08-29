@@ -5,5 +5,8 @@ import (
 )
 
 func main() {
-	fmt.Println(x)
+	a := "a"
+	//b := "b"
+	fmt.Println(a)
+	
 }
