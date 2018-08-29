@@ -1,6 +1,7 @@
-package 02_visibility
+package vis
 
-import (
+// MyName is exported because it starts with a capital letter
+var MyName = "Sowjanya"
+var yourName = "Your Name"
 
-)
 
